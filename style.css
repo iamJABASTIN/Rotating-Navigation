@@ -145,6 +145,6 @@ nav ul li + li + li {
         max-width: 100%;
     }
     .container.show-nav{
-        transform: rotate(-10deg);
+        transform: rotate(-20deg);
     }
 }
